@@ -1,0 +1,14 @@
+{
+    "customerId": 3,
+    "firstName": "Demo",
+    "lastName": "SUPPORT",
+    "phone": 5432167890,
+    "email": "demo@support.com",
+    "accounts": [
+        {
+            "accountNo": 1001,
+            "accountType": "Fixed",
+            "accountBalance": 250000.0
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "customerId": 1,
+        "firstName": "Demo",
+        "lastName": "DEMO",
+        "phone": 1234567890,
+        "email": "demo@demo.com",
+        "accounts": [
+        	{
+            	"accountNo": 1003,
+            	"accountType": "Current",
+            	"accountBalance": 800000.0
+        	}
+    	]
+    },
+    {
+        "customerId": 2,
+        "firstName": "Support",
+        "lastName": "SUPPORT",
+        "phone": 9876543210,
+        "email": "support@support.com",
+        "accounts": [
+            {
+                "accountNo": 1000,
+                "accountType": "Savings",
+                "accountBalance": 90000.0
+            }
+        ]
+    },
+    {
+        "customerId": 3,
+        "firstName": "Demo",
+        "lastName": "SUPPORT",
+        "phone": 5432167890,
+        "email": "demo@support.com",
+        "accounts": [
+            {
+                "accountNo": 1001,
+                "accountType": "Fixed",
+                "accountBalance": 250000.0
+            }
+        ]
+    },
+    {
+        "customerId": 4,
+        "firstName": "Support",
+        "lastName": "DEMO",
+        "phone": 6789043215,
+        "email": "support@demo.com",
+        "accounts": [
+            {
+                "accountNo": 1002,
+                "accountType": "Savings",
+                "accountBalance": 600000.0
+            }
+        ]
+    }
+]

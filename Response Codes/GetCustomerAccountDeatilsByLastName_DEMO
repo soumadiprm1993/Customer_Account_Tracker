@@ -1,0 +1,24 @@
+[
+    {
+        "customerId": 1,
+        "firstName": "Demo",
+        "lastName": "DEMO",
+        "phone": 1234567890,
+        "email": "demo@demo.com",
+        "accounts": []
+    },
+    {
+        "customerId": 4,
+        "firstName": "Support",
+        "lastName": "DEMO",
+        "phone": 6789043215,
+        "email": "support@demo.com",
+        "accounts": [
+            {
+                "accountNo": 1002,
+                "accountType": "Savings",
+                "accountBalance": 600000.0
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+{"customerId": 1,"accounts":[{"accountType":"Current","accountBalance":800000.0}]}
+{"customerId": 2,"accounts":[{"accountType":"Savings","accountBalance":90000.0}]}
+{"customerId": 3,"accounts":[{"accountType":"Fixed","accountBalance":250000.0}]}
+{"customerId": 4,"accounts":[{"accountType":"Savings","accountBalance":600000.0}]}

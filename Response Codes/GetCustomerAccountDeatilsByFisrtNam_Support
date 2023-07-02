@@ -1,0 +1,30 @@
+[
+    {
+        "customerId": 2,
+        "firstName": "Support",
+        "lastName": "SUPPORT",
+        "phone": 9876543210,
+        "email": "support@support.com",
+        "accounts": [
+            {
+                "accountNo": 1000,
+                "accountType": "Savings",
+                "accountBalance": 90000.0
+            }
+        ]
+    },
+    {
+        "customerId": 4,
+        "firstName": "Support",
+        "lastName": "DEMO",
+        "phone": 6789043215,
+        "email": "support@demo.com",
+        "accounts": [
+            {
+                "accountNo": 1002,
+                "accountType": "Savings",
+                "accountBalance": 600000.0
+            }
+        ]
+    }
+]

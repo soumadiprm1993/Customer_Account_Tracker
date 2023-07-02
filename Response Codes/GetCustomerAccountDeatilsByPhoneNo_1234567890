@@ -1,0 +1,16 @@
+[
+    {
+        "customerId": 1,
+        "firstName": "Demo",
+        "lastName": "DEMO",
+        "phone": 1234567890,
+        "email": "demo@demo.com",
+        "accounts": [
+            {
+                "accountNo": 1003,
+                "accountType": "Current",
+                "accountBalance": 800000.0
+            }
+        ]
+    }
+]
